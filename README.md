@@ -1,4 +1,8 @@
-# Issues
+Deprecated in favor of: https://github.com/cirosantilli/cirosantilli.github.io/issues
+
+Existing Issues moved with GitHub's new transfer feature: https://help.github.com/en/articles/transferring-an-issue-to-another-repository
+
+# Old README
 
 Issues tracker for projects which don't have a public issue tracker.
 
